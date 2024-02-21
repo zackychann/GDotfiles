@@ -1,0 +1,37 @@
+[global]
+width = 400
+height = 250
+
+transparency = 5
+frame_width = 2
+gap_size = 4
+
+font = JetBrainsMono Nerd Font 10
+
+enable_recursive_icon_lookup = true
+
+icon_theme = Papirus-Dark
+icon_position = left
+min_icon_size = 32
+max_icon_size = 64
+
+icon_corner_radius = 0
+corner_radius = 0
+
+frame_color = "#89B4FA"
+separator_color= frame
+
+[urgency_low]
+background = "#1E1E2E"
+foreground = "#CDD6F4"
+
+[urgency_normal]
+background = "#1E1E2E"
+foreground = "#CDD6F4"
+
+[urgency_critical]
+background = "#1E1E2E"
+foreground = "#CDD6F4"
+frame_color = "#FAB387"
+
+
